@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Description>RecImage Commons</Description>
+        <Copyright>RecImage</Copyright>
+        <RepositoryUrl>https://github.com/MrEveKS/RI.Commons.git</RepositoryUrl>
+        <PackageTags>RecImage</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>
