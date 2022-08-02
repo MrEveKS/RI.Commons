@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>RI.Commons</id>
-        <version>1.0.2</version>
-        <authors>EveKS</authors>
-        <description>RecImage Commons</description>
-        <copyright>Copyright ©2022 RecImage</copyright>
+        <id>$packageId$</id>
+        <version>$version$</version>
+        <authors>$author$</authors>
+        <title>$title$</title>
+        <description>$description$</description>
+        <copyright>$copyright$</copyright>
         <license type="expression">Apache-2.0</license>
     </metadata>
     <files>
-        <file src=".\bin\Release\net6.0\publish\**" target="build" />
+        <file src=".\bin\Release\net6.0\publish\**" target="lib/netcore6" />
     </files>
 </package>
