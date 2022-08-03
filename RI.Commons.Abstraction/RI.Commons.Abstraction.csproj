@@ -4,13 +4,17 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+    </PropertyGroup>
 
-        <Version>1.0.3</Version>
+    <PropertyGroup>
+        <Version>1.0.6</Version>
         <PackageId>RI.Commons</PackageId>
         <Author>EveKS</Author>
         <Title>RecImage Commons</Title>
         <Description>RecImage Commons</Description>
         <Copyright>Copyright ©2022 RecImage</Copyright>
+        <NeutralLanguage>en</NeutralLanguage>
+        <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
     </PropertyGroup>
 
 </Project>

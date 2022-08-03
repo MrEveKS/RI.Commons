@@ -1,4 +1,4 @@
-﻿namespace RI.Auth.Common.Abstractions;
+﻿namespace RI.Commons.Abstraction;
 
 public interface IUpdated
 {
